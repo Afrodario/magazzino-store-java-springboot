@@ -1,0 +1,1 @@
+# magazzino-store-java-springboot
